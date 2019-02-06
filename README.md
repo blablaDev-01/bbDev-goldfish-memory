@@ -1,5 +1,5 @@
 ![blablaDev](https://blabladev.com/wp-content/uploads/bbDev-logo-black.png)
-# bbDev goldfish memory
+# goldfish memory
 
 at some point in your life you played this game, and if you're like us, you probably sucked at it, but now we have google and keep and terabytes of space and all of the :cloud:, soooo we good..
 

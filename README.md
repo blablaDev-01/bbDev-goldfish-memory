@@ -6,9 +6,9 @@ at some point in your life you played this game, and if you're like us, you prob
 you already know the rules for this one, but just to make sure you don't forget _(pun intended)_
 
 ### coding stack:
-- JavaScript
-- HTML
-- CSS
+- `JavaScript`
+- `HTML`
+- `CSS`
 
 ### requirements:
 -  game needs to be responsive, feel free to use a [grid][d1b51a7d] (and [this][7f585200])
@@ -27,7 +27,7 @@ you already know the rules for this one, but just to make sure you don't forget 
   [d1b51a7d]: https://css-tricks.com/snippets/css/complete-guide-grid/ "css grid"
   [7f585200]: https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1 "medium grid"
 
-this is a **lvl 2** project, **deadline is 2 weeks**
+this is a **lvl 2** project, the **deadline is 2 weeks**
 
 ###### gl, hf and happy coding! :tada:
 
